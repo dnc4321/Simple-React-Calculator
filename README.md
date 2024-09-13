@@ -26,15 +26,21 @@ A modern calculator application built with React, Vite, Tailwind and math.js.
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/react-calculator.git cd react-calculator
+
+git clone https://github.com/yourusername/react-calculator.git 
+
+cd react-calculator
 
 2. Install dependencies:
+
 npm install
 
 ### Development
 
 1. Run the development server:
+   
 npm run dev
+
 This will start the Vite development server. Open your browser and navigate to `http://localhost:5173` to see the application.
 
 ### Building for Production
